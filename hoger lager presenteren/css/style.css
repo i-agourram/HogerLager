@@ -1,0 +1,30 @@
+body {
+    background-image: url('img/1508421242.jpg');
+    padding: 5%; /* Zegt hoe hoog/laag het content begint */
+    overflow: hidden; /* Verwijdert de scrollbar */
+    background-size: cover;
+}
+
+.centertext {
+    text-align: center;
+    padding: 10px;
+    color: lightpink;
+}
+
+input {
+    background-color: lightcoral;
+    width: 80px;
+    height: 30px;
+}
+
+article {
+    width: 90px;
+    height: 30px;
+    background-color: lightcoral;
+    margin: 100px;
+    border-style: double;
+    text-align: center;
+    padding-bottom: 20px;
+    position: relative;
+    left: 300px;
+}
